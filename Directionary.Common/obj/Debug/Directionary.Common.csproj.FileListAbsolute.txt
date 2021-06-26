@@ -1,0 +1,5 @@
+C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.Common\bin\Debug\Directionary.Common.dll
+C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.Common\bin\Debug\Directionary.Common.pdb
+C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.Common\obj\Debug\Directionary.Common.csproj.CoreCompileInputs.cache
+C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.Common\obj\Debug\Directionary.Common.dll
+C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.Common\obj\Debug\Directionary.Common.pdb
