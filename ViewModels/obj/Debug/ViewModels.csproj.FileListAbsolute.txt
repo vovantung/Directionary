@@ -1,0 +1,5 @@
+C:\Users\Vo Van Tung\Desktop\Directionary\ViewModels\bin\Debug\ViewModels.dll
+C:\Users\Vo Van Tung\Desktop\Directionary\ViewModels\bin\Debug\ViewModels.pdb
+C:\Users\Vo Van Tung\Desktop\Directionary\ViewModels\obj\Debug\ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Vo Van Tung\Desktop\Directionary\ViewModels\obj\Debug\ViewModels.dll
+C:\Users\Vo Van Tung\Desktop\Directionary\ViewModels\obj\Debug\ViewModels.pdb

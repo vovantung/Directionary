@@ -2209,6 +2209,7 @@
     <Folder Include="App_Data\" />
     <Folder Include="Assets\admin\" />
     <Folder Include="Assets\client\" />
+    <Folder Include="Services\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
@@ -2239,6 +2240,10 @@
     <ProjectReference Include="..\Directionary.Service\Directionary.Service.csproj">
       <Project>{e8d357a1-a605-4773-a19d-922900ca3464}</Project>
       <Name>Directionary.Service</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ViewModels\ViewModels.csproj">
+      <Project>{74D4F3D2-6F49-47ED-A3FF-C4AFCA7FDDC6}</Project>
+      <Name>ViewModels</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

@@ -28,9 +28,9 @@ C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.Data\bin\Debug\Microsoft.
 C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.Data\bin\Debug\Microsoft.Owin.Security.OAuth.xml
 C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.Data\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.Data\obj\Debug\Directionary.Data.csproj.AssemblyReference.cache
+C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.Data\obj\Debug\Directionary.Data.Migrations.InitDb.resources
+C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.Data\obj\Debug\Directionary.Data.csproj.GenerateResource.cache
 C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.Data\obj\Debug\Directionary.Data.csproj.CoreCompileInputs.cache
 C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.Data\obj\Debug\Directionary.Data.csproj.CopyComplete
 C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.Data\obj\Debug\Directionary.Data.dll
 C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.Data\obj\Debug\Directionary.Data.pdb
-C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.Data\obj\Debug\Directionary.Data.Migrations.InitialCreate.resources
-C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.Data\obj\Debug\Directionary.Data.csproj.GenerateResource.cache

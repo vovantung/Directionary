@@ -1,9 +1,5 @@
 C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.UnitTest\bin\Debug\Directionary.UnitTest.dll
 C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.UnitTest\bin\Debug\Directionary.UnitTest.pdb
-C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.UnitTest\obj\Debug\Directionary.UnitTest.csproj.AssemblyReference.cache
-C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.UnitTest\obj\Debug\Directionary.UnitTest.csproj.CoreCompileInputs.cache
-C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.UnitTest\obj\Debug\Directionary.UnitTest.dll
-C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.UnitTest\obj\Debug\Directionary.UnitTest.pdb
 C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.UnitTest\bin\Debug\Directionary.Data.dll
 C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.UnitTest\bin\Debug\Directionary.Model.dll
 C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.UnitTest\bin\Debug\Directionary.Service.dll
@@ -18,4 +14,8 @@ C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.UnitTest\bin\Debug\Direct
 C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.UnitTest\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.UnitTest\bin\Debug\EntityFramework.xml
 C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.UnitTest\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.UnitTest\obj\Debug\Directionary.UnitTest.csproj.AssemblyReference.cache
+C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.UnitTest\obj\Debug\Directionary.UnitTest.csproj.CoreCompileInputs.cache
 C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.UnitTest\obj\Debug\Directionary.UnitTest.csproj.CopyComplete
+C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.UnitTest\obj\Debug\Directionary.UnitTest.dll
+C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.UnitTest\obj\Debug\Directionary.UnitTest.pdb

@@ -1,8 +1,5 @@
 C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.Service\bin\Debug\Directionary.Service.dll
 C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.Service\bin\Debug\Directionary.Service.pdb
-C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.Service\obj\Debug\Directionary.Service.csproj.CoreCompileInputs.cache
-C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.Service\obj\Debug\Directionary.Service.dll
-C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.Service\obj\Debug\Directionary.Service.pdb
 C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.Service\bin\Debug\Directionary.Common.dll
 C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.Service\bin\Debug\Directionary.Data.dll
 C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.Service\bin\Debug\Directionary.Model.dll
@@ -18,4 +15,7 @@ C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.Service\bin\Debug\Microso
 C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.Service\bin\Debug\EntityFramework.xml
 C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.Service\obj\Debug\Directionary.Service.csproj.AssemblyReference.cache
+C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.Service\obj\Debug\Directionary.Service.csproj.CoreCompileInputs.cache
 C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.Service\obj\Debug\Directionary.Service.csproj.CopyComplete
+C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.Service\obj\Debug\Directionary.Service.dll
+C:\Users\Vo Van Tung\Desktop\Directionary\Directionary.Service\obj\Debug\Directionary.Service.pdb

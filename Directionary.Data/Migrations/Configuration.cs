@@ -107,5 +107,32 @@
             menuRepository.Add(menu5);
             unitOfWork.Commit();
         }
+
+
+        private void CreateUser(DirectionaryDbContext context)
+        {
+            var manager = new UserManager<ApplicationUser>(new UserStore<ApplicationUser>(new DirectionaryDbContext()));
+            var roleManager = new RoleManager<IdentityRole>(new RoleStore<IdentityRole>(new DirectionaryDbContext()));
+            var user = new ApplicationUser()
+            {
+                UserName = "vovantung",
+                Email = "vovantungdt123@gmail.com",
+                EmailConfirmed = true,
+                BirthDay = DateTime.Now,
+                FullName = "Vo Van Tung"
+            };
+            if (manager.Users.Count(x => x.UserName == "vovantung") == 0)
+            {
+                manager.Create(user, "123456$");
+                if (!roleManager.Roles.Any())
+                {
+                    roleManager.Create(new IdentityRole { Name = "Admin" });
+                    roleManager.Create(new IdentityRole { Name = "ProjectManagement" });
+                    roleManager.Create(new IdentityRole { Name = "User" });
+                }
+                var adminUser = manager.FindByEmail("vovantungdt123@gmail.com");
+                manager.AddToRoles(adminUser.Id, new string[] { "Admin", "ProjectManagement", "User" });
+            }
+        }
     }
 }

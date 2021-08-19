@@ -84,9 +84,9 @@
     <Compile Include="Infrastructure\IRepository.cs" />
     <Compile Include="Infrastructure\RepositoryBase.cs" />
     <Compile Include="Infrastructure\UnitOfWork.cs" />
-    <Compile Include="Migrations\202106260950266_InitialCreate.cs" />
-    <Compile Include="Migrations\202106260950266_InitialCreate.designer.cs">
-      <DependentUpon>202106260950266_InitialCreate.cs</DependentUpon>
+    <Compile Include="Migrations\202108170759187_InitDb.cs" />
+    <Compile Include="Migrations\202108170759187_InitDb.designer.cs">
+      <DependentUpon>202108170759187_InitDb.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -94,11 +94,6 @@
     <Compile Include="Repositories\MenuGroupRepository.cs" />
     <Compile Include="Repositories\MenuRepository.cs" />
     <Compile Include="Repositories\PostCategoryRepository.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Migrations\202106260950266_InitialCreate.resx">
-      <DependentUpon>202106260950266_InitialCreate.cs</DependentUpon>
-    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -113,6 +108,11 @@
       <Project>{0b18b065-1229-4e7a-a07e-e2345367f4ac}</Project>
       <Name>Directionary.Model</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202108170759187_InitDb.resx">
+      <DependentUpon>202108170759187_InitDb.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

@@ -16,9 +16,5 @@ namespace Directionary.Web.Controllers
         {
             return View();
         }
-
-       
-
-
     }
 }
